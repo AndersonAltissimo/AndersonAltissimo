@@ -7,6 +7,5 @@
 
 
 ### Hello World! 👋 
-##### Welcome to my profile
 
 ![Anderson Altissimo's github stats](https://github-readme-stats.vercel.app/api?username=AndersonAltissimo&show_icons=true&count_private=true)
