@@ -3,5 +3,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ander.altissimo@gmail.com)](mailto:ander.altissimo@gmail.com)
 
 ### Hello World! 👋 
-
-![Anderson Altissimo's github stats](https://github-readme-stats.vercel.app/api?username=AndersonAltissimo&show_icons=true&count_private=true)
