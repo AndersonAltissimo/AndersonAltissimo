@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer with **10+ years of experience**, most of it deep in **PHP and Laravel**, building products that real people use every day. I work across the whole stack — REST APIs on the backend, React and Vue on the frontend — and I'm comfortable owning a feature end-to-end, from database schema to UI.
+I'm a full-stack developer with **10+ years of experience**, specializing in **PHP and Laravel** and building products that real people use every day. I work across the whole stack — REST APIs on the backend, React and Vue on the frontend — and I'm comfortable owning a feature end-to-end, from database schema to UI. More recently, I've also been exploring **Python, AI integrations, and the Model Context Protocol (MCP)** to build practical tools and workflows.
 
 For the last few years I've been part of the engineering team at **Storage360**, a US-based SaaS platform for commercial real estate management, where I work closely with leadership on architecture and delivery. Earlier, I worked through Jobsity as an embedded engineer at Store Space Self Storage, and before that at Mobile Saúde, a healthtech platform serving **over 7 million lives**.
 
@@ -27,6 +27,7 @@ I also **co-founded Newestapps**, which gave me the other half of the job: makin
 - 🌎 **Remote-first experience** — years collaborating with international, distributed teams
 - 🏢 **Cross-industry** — shipped products in real estate, healthcare, fintech, and e-commerce
 - 🏗️ **Full lifecycle** — as a co-founder, I've taken products from zero to launch, not just maintained existing ones
+- 🤖 **AI integrations** — exploring MCP and Python to connect AI assistants with practical tools and workflows
 
 ---
 
@@ -40,6 +41,7 @@ I also **co-founded Newestapps**, which gave me the other half of the job: makin
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
